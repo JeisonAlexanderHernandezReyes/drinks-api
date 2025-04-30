@@ -1,0 +1,1 @@
+{"drinks": [{"id": 1, "name": "Espresso", "size": "S", "price": 2.5}, {"id": 2, "name": "Latte", "size": "M", "price": 3.5}, {"id": 3, "name": "Cappuccino", "size": "M", "price": 3.0}, {"id": 4, "name": "Americano", "size": "L", "price": 2.8}], "next_id": 5}
